@@ -1,5 +1,7 @@
 ## 📌 Library Management System (Kotlin - Console Based)
 
+🚀 [Click here to run the application live in your browser!](https://replit.com/@jeyasuriya01/LibraryManagementSystem18020)
+
 A beginner-friendly, console-based Library Management System written in Kotlin. This project demonstrates core object-oriented programming concepts using dynamic data structures like MutableList. It allows users to efficiently manage books, students, book issuing/returning, and fine calculation through a simple menu-driven interface.
 
 ---
